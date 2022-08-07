@@ -21,7 +21,7 @@ yarn android --deviceId=<ANDROIDDEVICEID>
 ```console
 foo@bar:~$ npx react-native init timsu --version 0.68.2
 foo@bar:~$ cd timsuproject
-foo@bar:~/timsuproject$ yarn add prajadimas/react-native-serial-port-api@1.3.2
+foo@bar:~/timsuproject$ yarn add react-native-serial-port-api@1.3.2
 foo@bar:~/timsuproject$ npx react-native run-android
 ```
 
